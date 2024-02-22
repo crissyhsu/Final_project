@@ -1,4 +1,4 @@
-# Final_project
+# Introduction
 This is my final project. It's a platform game that describe the process of preparing GSAT.
 
 # How to start the game ?
